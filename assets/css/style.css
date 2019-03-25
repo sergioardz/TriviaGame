@@ -1,0 +1,14 @@
+head,
+body {
+    background: lightgreen;
+}
+#wrapper {
+    padding: 40px;
+    margin: auto;
+    width: 680px;
+    background: lightyellow;
+}
+#results {
+    text-align: center;
+    color: blue;
+}
